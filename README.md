@@ -17,7 +17,7 @@ Ivan will answer this.
 
 ## Select Your Project:
 
-SciPy ?
+SciPy ? 
 
 ## Proposal Title:
 
@@ -42,9 +42,24 @@ and accessibility of SciPy and its tools to a wider audience, which can enhance
 education and career opportunities for Spanish-speaking individuals in STEM
 fields.
 
-- Explain how we will made the translation
-- How much time we need to do it?
-- How many people?
+  El proceso de traducción iniciará con la adaptación de una guía de
+  estilo y la definición de un glosario, este último en el caso de ser
+  necesario. Luego se hará la extracción respectiva del contenido a
+  traducir para cargarlo en Crowdin y comenzar con la traducción.
+
+  Una vez finalizado el proceso de traducción se requiere una revisión del control
+  de calidad de esta, para verificar si se cumple con la guía de estilo, la
+  unificación de términos y las normas gramaticales correspondientes al español.
+  Finalmente se agregará el contenido traducido al sitio web aplicando las
+  extensiones o configuraciones adecuadas para que se muestre de manera correcta.
+  (Se envía el PR respectivo para obtener la aprobación del equipo de Scipy)
+
+Se requieren 55 horas y cuatro (4) personas para llevar a cabo el
+proyecto. Las personas estarán encargadas de:
+
+  - Desarrollo web (1)
+  - Traducción (2)
+  - Gramática y calidad de la traducción (1)
 
 ## Please explain the benefit of this proposal including:
 
@@ -82,21 +97,62 @@ and career opportunities for Spanish-speaking individuals in STEM.
 
 ## Amount Requested:
 
-- How much $ per hours?
-  Dependiendo del tiempo que lleve el costo del trabajo por persona
-- Se necesita alguna otra herramienta
+825$ (15$ per hour)
 
 ## Brief Budget Justification:
 
 <!-- (Please include hours and/or pay rates) -->
 <!-- How will the money be spent? -->
 
+El dinero recibido estará destinado a pagar a las personas involucradas en el proyecto:
+
+- Planeación y coordinación del flujo de trabajo (30$)
+- Proceso de traducción (450$)
+- Adaptación de guía de estilo y creación de glosario (120$)
+- Extracción del contenido (45$)
+- Revisión y control de calidad (60$)
+- Despliegue de la traducción al sitio web (120$)
+
+Nota: Se estima que un traductor(a) gane 0.05$ por palabra y que una persona
+puede traducir 300-350 palabras por hora. Se asume en este caso, que la
+persona va a traducir 300 palabras por hora.
+
 ## Timeline of Deliverables:
 
 <!-- Please include specific timelines showing when you will achieve the proposed work. -->
 
-Explicar con mas detallle las actividades.
-uede hacerce como en etapas y estimar un tiempo para cada una de ellas.
+Explicar con más detalle las actividades.
+puede hacerse en etapas y estimar un tiempo para cada una de ellas.
+
+* Semana 1:
+
+- Día 1:
+
+Planeación y coordinación del flujo de trabajo
+Adaptación de guía de estilo y creación de glosario
+
+- Día 2:
+
+Extracción del contenido a traducir
+
+- Días 3-5:
+
+Traducción del contenido
+
+* Semana 2:
+
+- Días 1-2:
+
+Traducción del contenido
+
+- Día 3:
+
+Revisión y control de calidad de la traducción
+
+- Días 4-5
+
+Despliegue de la traducción al sitio web
+
 
 ## Has someone been identified to carry out the work in the proposal?
 
@@ -105,7 +161,20 @@ How many persons we needs?
 - **If YES**: Please list the name(s) of the person(s) who will be carrying out
   the work and a short statement (approximately 1 sentence) of why they are
   qualified.
-- **If NO**: How will someone be identified to carry out the work?
+
+- Yurely Camacho, licenciada en estadística, participó en la traducción
+de la documentación de scikit-learn 0.24.2 al español y es colaboradora activa
+de Open Science Labs.
+- Anavelyz Perez, licenciada en estadística, ha participado en la
+traducción de la documentación de scikit-learn 0.24.2 al español y es
+colaboradora activa de Open Science Labs.
+
+Buscar y agregar a las 2 personas restantes. Deberían ser:
+
+  * Lingüista o con conocimientos del español que además maneje el inglés.
+
+  * Desarrollador web con conocimientos en Hugo, el generador de sitios web
+  estáticos de código abierto.
 
 ## Please list the name and email address of a project leader(s) who has
 
