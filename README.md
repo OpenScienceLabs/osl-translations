@@ -27,21 +27,20 @@ SciPy ?
 
 <!-- No more than 750 words (4,500 characters max) -->
 
-The goal of this proposal is to increase the accessibility of the SciPy main
-website for Spanish-speaking audiences who may not be fluent in English.
 SciPy is an open-source library for scientific computing that has gained
 widespread adoption by the scientific community worldwide.
-However, the SciPy website is currently only available in English, which may
+Unfortunately, the SciPy website is only accessible in English, which may
 limit its accessibility to Spanish-speaking users.
-To address this issue, this proposal outlines a plan to translate the SciPy
-main website into Spanish.
+To ensure that everyone has equal access to this valuable tool, we're proposing
+a project to translate the SciPy main website into Spanish.
+The goal of this project is to promote diversity and inclusion by making the
+site accessible to Spanish-speaking audiences who might not be fluent in
+English.
+By breaking down language barriers, we're making it easier for Spanish-speaking
+scientists to access valuable information, learn new skills, and advance their
+careers By doing so, it can expand the reach fields.
 
-Translating the SciPy website to Spanish can promote diversity and inclusion in
-the scientific ecosystem and community. By doing so, it can expand the reach
-and accessibility of SciPy and its tools to a wider audience, which can enhance
-education and career opportunities for Spanish-speaking individuals in STEM
-fields.
-
+- What library we will translate? SciPY?
 - Explain how we will made the translation
 - How much time we need to do it?
 - How many people?
@@ -82,14 +81,15 @@ and career opportunities for Spanish-speaking individuals in STEM.
 
 ## Amount Requested:
 
-- How much $ per hours?
-  Dependiendo del tiempo que lleve el costo del trabajo por persona
-- Se necesita alguna otra herramienta
-
 ## Brief Budget Justification:
 
 <!-- (Please include hours and/or pay rates) -->
 <!-- How will the money be spent? -->
+
+- How much $ per hours?
+  Dependiendo del tiempo que lleve el costo del trabajo por persona
+- Se necesita alguna otra herramienta
+- How many peopele?
 
 ## Timeline of Deliverables:
 
@@ -107,9 +107,7 @@ How many persons we needs?
   qualified.
 - **If NO**: How will someone be identified to carry out the work?
 
-## Please list the name and email address of a project leader(s) who has
-
-approved this proposal.
+## Please list the name and email address of a project leader(s) who has approved this proposal.
 
 ## For OFF-CYCLE proposals ONLY:
 
