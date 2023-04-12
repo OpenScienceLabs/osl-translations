@@ -17,9 +17,12 @@ Ivan will answer this.
 
 ## Select Your Project:
 
-SciPy ?
+SciPy
 
 ## Proposal Title:
+
+To improve the accessibility of SciPy for Spanish-speaking users, we would
+like to translate its main website into Spanish.
 
 ## Two Sentence Summary of Proposal:
 
@@ -40,29 +43,25 @@ By breaking down language barriers, we're making it easier for Spanish-speaking
 scientists to access valuable information, learn new skills, and advance their
 careers By doing so, it can expand the reach fields.
 
-- What library we will translate? SciPY?
-- Explain how we will made the translation
-- How much time we need to do it?
-- How many people?
+The translation process will involve several steps, starting with the
+adaptation of a style guide and the creation of a glossary to ensure
+consistency throughout the translation.
+Next, we will extract the website content (link to the directories or specify
+their names) and upload it to Crowdin, a translation management platform.
 
-  El proceso de traducción iniciará con la adaptación de una guía de
-  estilo y la definición de un glosario, este último en el caso de ser
-  necesario. Luego se hará la extracción respectiva del contenido a
-  traducir para cargarlo en Crowdin y comenzar con la traducción.
+Once the translation is complete, we will begin the revision process to ensure
+the quality of the translation, verifying that the style guide is being used
+correctly to unify terminology and adhere to Spanish grammatical rules.
 
-  Una vez finalizado el proceso de traducción se requiere una revisión del control
-  de calidad de esta, para verificar si se cumple con la guía de estilo, la
-  unificación de términos y las normas gramaticales correspondientes al español.
-  Finalmente se agregará el contenido traducido al sitio web aplicando las
-  extensiones o configuraciones adecuadas para que se muestre de manera correcta.
-  (Se envía el PR respectivo para obtener la aprobación del equipo de Scipy)
+Finally, the translated content will be added to the SciPy repository in a new
+directory.
+We will also generate the necessary layout to enable users to switch between
+languages on the website.
+All final changes will be submitted to SciPy via a pull request.
 
-Se requieren 55 horas y cuatro (4) personas para llevar a cabo el
-proyecto. Las personas estarán encargadas de:
-
-- Desarrollo web (1)
-- Traducción (2)
-- Gramática y calidad de la traducción (1)
+To carry out this project, we will need a team of 4 people, including a web
+developer, 2 translators, and a person to check the translation.
+The entire process is estimated to take approximately 55 hours of work.
 
 ## Please explain the benefit of this proposal including:
 
@@ -90,8 +89,6 @@ discoveries, innovations, and applications in a wide range of fields.
 
 **Impact to the Community**
 
-<!-- What community? General community or Scipy community? -->
-
 This translation can have a positive impact on the Spanish-speaking community
 at large.
 It can help increase access to resources and tools for learning and working
@@ -107,54 +104,58 @@ and career opportunities for Spanish-speaking individuals in STEM.
 <!-- (Please include hours and/or pay rates) -->
 <!-- How will the money be spent? -->
 
-El dinero recibido estará destinado a pagar a las personas involucradas en el proyecto:
+The money received will be used to pay the people involved in the project:
 
-- Planeación y coordinación del flujo de trabajo (30$)
-- Proceso de traducción (450$)
-- Adaptación de guía de estilo y creación de glosario (120$)
-- Extracción del contenido (45$)
-- Revisión y control de calidad (60$)
-- Despliegue de la traducción al sitio web (120$)
+- Planning and coordination of the workflow ($30)
+- Adaptation of the style guide and creation of a glossary ($120)
+- Extraction of the content (45$)
+- Translation process ($450)
+- Review and quality control ($60)
+- Deployment of the translation to the website ($120)
 
-Nota: Se estima que un traductor(a) gane 0.05$ por palabra y que una persona
-puede traducir 300-350 palabras por hora. Se asume en este caso, que la
-persona va a traducir 300 palabras por hora.
+<!-- Nota: Se estima que un traductor(a) gane 0.05$ por palabra y que una persona -->
+<!-- puede traducir 300-350 palabras por hora. Se asume en este caso, que la -->
+<!-- persona va a traducir 300 palabras por hora. -->
 
 ## Timeline of Deliverables:
 
 <!-- Please include specific timelines showing when you will achieve the proposed work. -->
 
-Explicar con más detalle las actividades.
-puede hacerse en etapas y estimar un tiempo para cada una de ellas.
+The translation project will be completed in a two-week timeline, with various
+tasks assigned to each day.
+In the first week, day one will focus on workflow planning and coordination,
+including the adaptation of the style guide and creation of a glossary.
 
-- Semana 1:
+Day two of the first week will involve the extraction of the content to be
+translated, while days three to five will be dedicated to content translation.
 
-* Día 1:
+The second week of the project will continue with days one and two allocated
+to content translation.
+Day three will be reserved for the review and quality control of the
+translation, ensuring that the style guide is followed correctly and that
+Spanish grammatical rules are applied appropriately.
 
-Planeación y coordinación del flujo de trabajo
-Adaptación de guía de estilo y creación de glosario
+The final days of the project, days four and five of week two, will be
+dedicated to the deployment of the translation to the website.
 
-- Día 2:
-
-Extracción del contenido a traducir
-
-- Días 3-5:
-
-Traducción del contenido
-
-- Semana 2:
-
-* Días 1-2:
-
-Traducción del contenido
-
-- Día 3:
-
-Revisión y control de calidad de la traducción
-
-- Días 4-5
-
-Despliegue de la traducción al sitio web
+<!-- Explicar con más detalle las actividades. -->
+<!-- puede hacerse en etapas y estimar un tiempo para cada una de ellas. -->
+<!---->
+<!-- - Semana 1: -->
+<!--   - Día 1: -->
+<!--     Planeación y coordinación del flujo de trabajo -->
+<!--     Adaptación de guía de estilo y creación de glosario -->
+<!--   - Día 2: -->
+<!--     Extracción del contenido a traducir -->
+<!--   - Días 3-5: -->
+<!--     Traducción del contenido -->
+<!-- - Semana 2: -->
+<!--   - Días 1-2: -->
+<!--     Traducción del contenido -->
+<!--   - Día 3: -->
+<!--     Revisión y control de calidad de la traducción -->
+<!--   - Días 4-5 -->
+<!--     Despliegue de la traducción al sitio web -->
 
 ## Has someone been identified to carry out the work in the proposal?
 
