@@ -17,58 +17,72 @@ Ivan will answer this.
 
 ## Select Your Project:
 
-SciPy ?
+SciPy
 
 ## Proposal Title:
 
+Breaking down language barriers: Spanish translation of the main Project
+SciPy website
+
 ## Two Sentence Summary of Proposal:
+
+To improve the accessibility of SciPy for Spanish-speaking users, we would
+like to translate its main website into Spanish.
 
 ## Description of Proposal:
 
 <!-- No more than 750 words (4,500 characters max) -->
 
-SciPy is an open-source library for scientific computing that has gained
-widespread adoption by the scientific community worldwide.
-Unfortunately, the SciPy website is only accessible in English, which may
-limit its accessibility to Spanish-speaking users.
-To ensure that everyone has equal access to this valuable tool, we're proposing
-a project to translate the SciPy main website into Spanish.
-The goal of this project is to promote diversity and inclusion by making the
-site accessible to Spanish-speaking audiences who might not be fluent in
-English.
-By breaking down language barriers, we're making it easier for Spanish-speaking
-scientists to access valuable information, learn new skills, and advance their
-careers By doing so, it can expand the reach fields.
+SciPy is a well-established open-source library for scientific computing,
+providing a wide range of tools for numerical methods, optimization, signal
+processing, statistics, and more.
+As a community-driven project, SciPy has gained widespread adoption and
+recognition among the scientific and engineering communities worldwide.
 
-- What library we will translate? SciPY?
-- Explain how we will made the translation
-- How much time we need to do it?
-- How many people?
+However, the SciPy website is currently only available in English, which may
+hinder its accessibility and impact for Spanish-speaking users who might not
+be fluent in English. This language barrier could prevent many potential
+users from accessing valuable resources, learning new skills, and expanding
+their opportunities.
 
-  El proceso de traducción iniciará con la adaptación de una guía de
-  estilo y la definición de un glosario, este último en el caso de ser
-  necesario. Luego se hará la extracción respectiva del contenido a
-  traducir para cargarlo en Crowdin y comenzar con la traducción.
+To address this issue, we propose a collaborative project between SciPy and
+Open Science Labs to translate the main SciPy website into Spanish. The main
+goal of this project is to promote diversity and inclusion by making the
+SciPy resources accessible to a wider audience, regardless of their linguistic
+background.
 
-  Una vez finalizado el proceso de traducción se requiere una revisión del control
-  de calidad de esta, para verificar si se cumple con la guía de estilo, la
-  unificación de términos y las normas gramaticales correspondientes al español.
-  Finalmente se agregará el contenido traducido al sitio web aplicando las
-  extensiones o configuraciones adecuadas para que se muestre de manera correcta.
-  (Se envía el PR respectivo para obtener la aprobación del equipo de Scipy)
+The translation process will involve several steps, starting with the
+adaptation of a style guide and the creation of a glossary to ensure
+consistency and accuracy throughout the translation. Next, we will extract
+the website content and work with a team of two expert translators to perform
+the translation and adaptation of the content.
 
-Se requieren 55 horas y cuatro (4) personas para llevar a cabo el
-proyecto. Las personas estarán encargadas de:
+We will also have a dedicated person to check the translations and ensure that
+the style guide and grammatical rules are being followed correctly. This
+person will also provide feedback and suggestions to improve the overall
+quality of the translation.
 
-- Desarrollo web (1)
-- Traducción (2)
-- Gramática y calidad de la traducción (1)
+Once the translation is complete, we will proceed to the revision process
+and make sure that the translated content meets the required quality standards.
+Finally, we will upload the translated content to a new directory in the SciPy
+repository, generate the necessary layout to enable users to switch between
+languages on the website, and submit a pull request to SciPy for approval.
+
+To carry out this project, we will need a team of four people, including a
+web developer, two expert translators, and a language checker. Open Science
+Labs will provide the necessary resources and tools to manage the translation
+process, as well as technical support to ensure a smooth collaboration with
+SciPy.
+
+The estimated time for the entire project is approximately 55 hours of work,
+including translation, quality assurance, technical implementation, and
+communication with the SciPy team. By collaborating on this project, we can
+create a more inclusive and diverse community of users, and enable
+Spanish-speaking scientists to access valuable resources and tools that can
+help them advance their research and careers.
 
 ## Please explain the benefit of this proposal including:
 
-<!-- -Impact to the project -->
-<!-- -Impact to the scientific ecosystem -->
-<!-- -Impact to the community -->
 <!-- No more than 400 words (2,500 characters max) -->
 
 **Impact to the project**
@@ -90,8 +104,6 @@ discoveries, innovations, and applications in a wide range of fields.
 
 **Impact to the Community**
 
-<!-- What community? General community or Scipy community? -->
-
 This translation can have a positive impact on the Spanish-speaking community
 at large.
 It can help increase access to resources and tools for learning and working
@@ -100,61 +112,50 @@ and career opportunities for Spanish-speaking individuals in STEM.
 
 ## Amount Requested:
 
-825$ (15$ per hour)
+870$
 
 ## Brief Budget Justification:
 
-<!-- (Please include hours and/or pay rates) -->
-<!-- How will the money be spent? -->
+The money received will be used to pay the people involved in the project:
 
-El dinero recibido estará destinado a pagar a las personas involucradas en el proyecto:
+- Planning and coordination of the workflow ($30)
+- Protocol and project planning ($45)
+- Adaptation of the style guide and creation of a glossary ($120)
+- Extraction of the content (45$)
+- Translation process ($450)
+- Review and quality control ($60)
+- Deployment of the translation to the website ($120)
 
-- Planeación y coordinación del flujo de trabajo (30$)
-- Proceso de traducción (450$)
-- Adaptación de guía de estilo y creación de glosario (120$)
-- Extracción del contenido (45$)
-- Revisión y control de calidad (60$)
-- Despliegue de la traducción al sitio web (120$)
-
-Nota: Se estima que un traductor(a) gane 0.05$ por palabra y que una persona
-puede traducir 300-350 palabras por hora. Se asume en este caso, que la
-persona va a traducir 300 palabras por hora.
+<!-- Nota: Se estima que un traductor(a) gane 0.05$ por palabra y que una persona -->
+<!-- puede traducir 300-350 palabras por hora. Se asume en este caso, que la -->
+<!-- persona va a traducir 300 palabras por hora. -->
 
 ## Timeline of Deliverables:
 
 <!-- Please include specific timelines showing when you will achieve the proposed work. -->
 
-Explicar con más detalle las actividades.
-puede hacerse en etapas y estimar un tiempo para cada una de ellas.
+The translation project will be completed in a two-week timeline, with various
+tasks assigned to each day.
+In the first week, day one will focus on workflow planning and coordination,
+including the adaptation of the style guide and creation of a glossary.
 
-- Semana 1:
+Day two of the first week will involve the extraction of the content to be
+translated, while days three to five will be dedicated to content translation.
 
-* Día 1:
+The second week of the project will continue with days one and two allocated
+to content translation.
+Day three will be reserved for the review and quality control of the
+translation, ensuring that the style guide is followed correctly and that
+Spanish grammatical rules are applied appropriately.
 
-Planeación y coordinación del flujo de trabajo
-Adaptación de guía de estilo y creación de glosario
+The final days of the project, days four and five of week two, will be
+dedicated to the deployment of the translation to the website.
 
-- Día 2:
-
-Extracción del contenido a traducir
-
-- Días 3-5:
-
-Traducción del contenido
-
-- Semana 2:
-
-* Días 1-2:
-
-Traducción del contenido
-
-- Día 3:
-
-Revisión y control de calidad de la traducción
-
-- Días 4-5
-
-Despliegue de la traducción al sitio web
+Throughout this entire process, the individual responsible for protocol and
+project planning shall diligently execute their role. They will proficiently
+orchestrate and facilitate meetings and encounters among stakeholders,
+meticulously review materials, and proficiently undertake additional
+activities essential to the project's success.
 
 ## Has someone been identified to carry out the work in the proposal?
 
