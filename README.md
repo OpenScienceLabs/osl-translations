@@ -83,9 +83,6 @@ help them advance their research and careers.
 
 ## Please explain the benefit of this proposal including:
 
-<!-- -Impact to the project -->
-<!-- -Impact to the scientific ecosystem -->
-<!-- -Impact to the community -->
 <!-- No more than 400 words (2,500 characters max) -->
 
 **Impact to the project**
@@ -118,9 +115,6 @@ and career opportunities for Spanish-speaking individuals in STEM.
 870$
 
 ## Brief Budget Justification:
-
-<!-- (Please include hours and/or pay rates) -->
-<!-- How will the money be spent? -->
 
 The money received will be used to pay the people involved in the project:
 
@@ -162,25 +156,6 @@ project planning shall diligently execute their role. They will proficiently
 orchestrate and facilitate meetings and encounters among stakeholders,
 meticulously review materials, and proficiently undertake additional
 activities essential to the project's success.
-
-<!-- Explicar con más detalle las actividades. -->
-<!-- puede hacerse en etapas y estimar un tiempo para cada una de ellas. -->
-<!---->
-<!-- - Semana 1: -->
-<!--   - Día 1: -->
-<!--     Planeación y coordinación del flujo de trabajo -->
-<!--     Adaptación de guía de estilo y creación de glosario -->
-<!--   - Día 2: -->
-<!--     Extracción del contenido a traducir -->
-<!--   - Días 3-5: -->
-<!--     Traducción del contenido -->
-<!-- - Semana 2: -->
-<!--   - Días 1-2: -->
-<!--     Traducción del contenido -->
-<!--   - Día 3: -->
-<!--     Revisión y control de calidad de la traducción -->
-<!--   - Días 4-5 -->
-<!--     Despliegue de la traducción al sitio web -->
 
 ## Has someone been identified to carry out the work in the proposal?
 
