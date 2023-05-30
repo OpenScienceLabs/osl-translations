@@ -157,6 +157,12 @@ Spanish grammatical rules are applied appropriately.
 The final days of the project, days four and five of week two, will be
 dedicated to the deployment of the translation to the website.
 
+Throughout this entire process, the individual responsible for protocol and
+project planning shall diligently execute their role. They will proficiently
+orchestrate and facilitate meetings and encounters among stakeholders,
+meticulously review materials, and proficiently undertake additional
+activities essential to the project's success.
+
 <!-- Explicar con más detalle las actividades. -->
 <!-- puede hacerse en etapas y estimar un tiempo para cada una de ellas. -->
 <!---->
