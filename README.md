@@ -21,10 +21,13 @@ SciPy
 
 ## Proposal Title:
 
-To improve the accessibility of SciPy for Spanish-speaking users, we would
-like to translate its main website into Spanish.
+Breaking down language barriers: Spanish translation of the main Project
+SciPy website
 
 ## Two Sentence Summary of Proposal:
+
+To improve the accessibility of SciPy for Spanish-speaking users, we would
+like to translate its main website into Spanish.
 
 ## Description of Proposal:
 
