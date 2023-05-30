@@ -33,38 +33,53 @@ like to translate its main website into Spanish.
 
 <!-- No more than 750 words (4,500 characters max) -->
 
-SciPy is an open-source library for scientific computing that has gained
-widespread adoption by the scientific community worldwide.
-Unfortunately, the SciPy website is only accessible in English, which may
-limit its accessibility to Spanish-speaking users.
-To ensure that everyone has equal access to this valuable tool, we're proposing
-a project to translate the SciPy main website into Spanish.
-The goal of this project is to promote diversity and inclusion by making the
-site accessible to Spanish-speaking audiences who might not be fluent in
-English.
-By breaking down language barriers, we're making it easier for Spanish-speaking
-scientists to access valuable information, learn new skills, and advance their
-careers By doing so, it can expand the reach fields.
+SciPy is a well-established open-source library for scientific computing,
+providing a wide range of tools for numerical methods, optimization, signal
+processing, statistics, and more.
+As a community-driven project, SciPy has gained widespread adoption and
+recognition among the scientific and engineering communities worldwide.
+
+However, the SciPy website is currently only available in English, which may
+hinder its accessibility and impact for Spanish-speaking users who might not
+be fluent in English. This language barrier could prevent many potential
+users from accessing valuable resources, learning new skills, and expanding
+their opportunities.
+
+To address this issue, we propose a collaborative project between SciPy and
+Open Science Labs to translate the main SciPy website into Spanish. The main
+goal of this project is to promote diversity and inclusion by making the
+SciPy resources accessible to a wider audience, regardless of their linguistic
+background.
 
 The translation process will involve several steps, starting with the
 adaptation of a style guide and the creation of a glossary to ensure
-consistency throughout the translation.
-Next, we will extract the website content (link to the directories or specify
-their names) and upload it to Crowdin, a translation management platform.
+consistency and accuracy throughout the translation. Next, we will extract
+the website content and work with a team of two expert translators to perform
+the translation and adaptation of the content.
 
-Once the translation is complete, we will begin the revision process to ensure
-the quality of the translation, verifying that the style guide is being used
-correctly to unify terminology and adhere to Spanish grammatical rules.
+We will also have a dedicated person to check the translations and ensure that
+the style guide and grammatical rules are being followed correctly. This
+person will also provide feedback and suggestions to improve the overall
+quality of the translation.
 
-Finally, the translated content will be added to the SciPy repository in a new
-directory.
-We will also generate the necessary layout to enable users to switch between
-languages on the website.
-All final changes will be submitted to SciPy via a pull request.
+Once the translation is complete, we will proceed to the revision process
+and make sure that the translated content meets the required quality standards.
+Finally, we will upload the translated content to a new directory in the SciPy
+repository, generate the necessary layout to enable users to switch between
+languages on the website, and submit a pull request to SciPy for approval.
 
-To carry out this project, we will need a team of 4 people, including a web
-developer, 2 translators, and a person to check the translation.
-The entire process is estimated to take approximately 55 hours of work.
+To carry out this project, we will need a team of four people, including a
+web developer, two expert translators, and a language checker. Open Science
+Labs will provide the necessary resources and tools to manage the translation
+process, as well as technical support to ensure a smooth collaboration with
+SciPy.
+
+The estimated time for the entire project is approximately 55 hours of work,
+including translation, quality assurance, technical implementation, and
+communication with the SciPy team. By collaborating on this project, we can
+create a more inclusive and diverse community of users, and enable
+Spanish-speaking scientists to access valuable resources and tools that can
+help them advance their research and careers.
 
 ## Please explain the benefit of this proposal including:
 
@@ -100,7 +115,7 @@ and career opportunities for Spanish-speaking individuals in STEM.
 
 ## Amount Requested:
 
-825$ (15$ per hour)
+870$ (15$ per hour)
 
 ## Brief Budget Justification:
 
