@@ -115,7 +115,7 @@ and career opportunities for Spanish-speaking individuals in STEM.
 
 ## Amount Requested:
 
-870$ (15$ per hour)
+870$
 
 ## Brief Budget Justification:
 
@@ -125,6 +125,7 @@ and career opportunities for Spanish-speaking individuals in STEM.
 The money received will be used to pay the people involved in the project:
 
 - Planning and coordination of the workflow ($30)
+- Protocol and project planning ($45)
 - Adaptation of the style guide and creation of a glossary ($120)
 - Extraction of the content (45$)
 - Translation process ($450)
