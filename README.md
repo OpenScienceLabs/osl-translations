@@ -171,13 +171,13 @@ How many persons we needs?
 - Anavelyz Perez, licenciada en estadística, ha participado en la
   traducción de la documentación de scikit-learn 0.24.2 al español y es
   colaboradora activa de Open Science Labs.
+- Ever Vino, Software Developer with experience in FrontEnd projects
+  and creation of static websites with Hugo Site generator. 
+  He is also a collaborator in opensource projects at OpenSienceLabs
 
-Buscar y agregar a las 2 personas restantes. Deberían ser:
+Buscar y agregar a una persona restante. Debería ser:
 
 - Lingüista o con conocimientos del español que además maneje el inglés.
-
-- Desarrollador web con conocimientos en Hugo, el generador de sitios web
-  estáticos de código abierto.
 
 ## Please list the name and email address of a project leader(s) who has approved this proposal.
 
