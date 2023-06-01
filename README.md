@@ -120,7 +120,7 @@ The money received will be used to pay the people involved in the project:
 - Protocol and project planning ($75) 
 - Adaptation of the style guide and creation of a glossary ($150) 
 - Extraction of the content (240$) 
-- Translation process ($1500) 100
+- Translation process ($1500)
 - Review and quality control ($230) 
 - Deployment of the translation to the website ($230) 
 
