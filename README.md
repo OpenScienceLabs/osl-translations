@@ -21,13 +21,13 @@ SciPy
 
 ## Proposal Title:
 
-Breaking down language barriers: Spanish translation of the main Project SciPy
-website
+Breaking down language barriers: Spanish translation of the SciPy and NumPy
+project main websites.
 
 ## Two Sentence Summary of Proposal:
 
 To improve the accessibility of SciPy for Spanish-speaking users, we would like
-to translate its main website into Spanish.
+to translate its main website and the main website for NumPy into Spanish.
 
 ## Description of Proposal:
 
@@ -49,7 +49,8 @@ To address this issue, we propose a collaborative project between SciPy and Open
 Science Labs to translate the main SciPy website into Spanish. The main goal of
 this project is to promote diversity and inclusion by making the SciPy's
 resources accessible to a wider audience, regardless of their linguistic
-background.
+background. Since skillful use of SciPy depends on knowledge of NumPy, we also
+intend to translate the main NumPy website into Spanish.
 
 The translation process will involve several steps, starting with the adaptation
 of a style guide and the creation of a glossary to ensure consistency and
@@ -64,15 +65,16 @@ translation.
 
 Once the translation is complete, we will proceed to the revision process and
 make sure that the translated content meets the required quality standards.
-Finally, we will upload the translated content to a new directory in the SciPy
-repository, generate the necessary layout to enable users to switch between
-languages on the website, and submit a pull request to SciPy for approval.
+Finally, we will upload the translated content to a new directories in the
+SciPy and NumPy repositories, generate the necessary layout to enable users to
+switch between languages on the website, and submit pull requests to SciPy and
+NumPy for approval.
 
 To carry out this project, we will need a team of four people, including a web
-developer, two expert translators, and a language checker. Open Science Labs
+developer, two expert translators, and a translation reviewer. Open Science Labs
 will provide the necessary resources and tools to manage the translation
 process, as well as technical support to ensure a smooth collaboration with
-SciPy.
+SciPy maintainers.
 
 The estimated time for the entire project is approximately 166 hours of work,
 including translation, quality assurance, technical implementation, and
@@ -87,19 +89,21 @@ them advance their research and careers.
 
 **Impact to the project**
 
-Translating the SciPy website can have a significant impact on the accessibility
-of this library in the scientific Spanish-speaking community. It can also
+Translating the SciPy and NumPy websites can have a significant impact on the
+accessibility of SciPy to the scientific Spanish-speaking community. It can also
 attract more Spanish-speaking contributors, diversifying the community and
 bringing new perspectives and ideas to the project.
 
 **Impact to the Scientific Ecosystem**
 
-Translating the SciPy website to Spanish can make these tools more accessible to
+Translating these websites to Spanish can make these tools more accessible to
 Spanish-speaking researchers and practitioners in STEM. Additionally, making
 these tools more accessible can help promote diversity and inclusion in the
 scientific ecosystem, leading to a more equitable and collaborative scientific
 community. This can help increase the Latin scientific research, which can lead
-to new discoveries, innovations, and applications in a wide range of fields.
+to new discoveries, innovations, and applications in a wide range of fields. In
+addition, the produced glossary and style guide could be a valuable resource for
+future translation efforts.
 
 **Impact to the Community**
 
@@ -122,7 +126,7 @@ The money received will be used to pay the people involved in the project:
 - Extraction of the content (240$) 
 - Translation process ($1500)
 - Review and quality control ($230) 
-- Deployment of the translation to the website ($230) 
+- Deployment of the translations to the websites ($230) 
 
 
 
@@ -140,14 +144,14 @@ coordinating the workflow, including adapting the style guide and creating a
 glossary.
 
 The second week will involve extracting the content to be translated and
-configuring the content on Crowding.
+configuring the content on Crowdin.
 
 The third, the fourth, fifth and sixth weeks will be devoted to translation.
 
-The seventh week is dedicated to revision and quality control of the
-translation, ensuring that the style guide is followed and that Spanish grammar
+The seventh week is to be dedicated to revision and quality control of the
+translations, ensuring that the style guide is followed and that Spanish grammar
 rules are correctly applied. We will also start proofing the content to be used
-on the website.
+on the websites.
 
 The last week of the project is dedicated to placing the translation on the
 website.
@@ -158,8 +162,8 @@ stakeholders, carefully check materials and competently carry out other
 activities essential to the success of the project.
 
 If the project can be completed in less time than planned, the extra budget will
-be used to improve the translation of a related project (e.g. NumPy,
-scikit-learn, pandas).
+be used to improve the translation of another related project
+(e.g. scikit-learn, pandas).
 
 ## Has someone been identified to carry out the work in the proposal?
 
@@ -170,16 +174,16 @@ How many persons we needs?
   qualified.
 
 - Yurely Camacho, with a degree in statistics, participated in the translation
-  of the scikit-learn 0.24.2 documentation into Spanish and she is collaborator
+  of the scikit-learn 0.24.2 documentation into Spanish and she is a collaborator
   in Open Science Labs.
 
 - Anavelyz Perez, with a degree in statistics, participated in the translation
-  of the scikit-learn 0.24.2 documentation into Spanish and she is collaborator
+  of the scikit-learn 0.24.2 documentation into Spanish and she is a collaborator
   in Open Science Labs.
 
 - Ever Vino, Software Developer with experience in FrontEnd projects  and
   creation of static websites with Hugo Site generator.  He is also a
-  collaborator in opensource projects at OpenSienceLabs
+  collaborator in opensource projects at Open Science Labs.
 
 - Agustina Pesce, physicist with a PhD in geophysics. She is also committed to
 contributing to open source software projects to improve the openness and
@@ -188,7 +192,7 @@ reproducibility of science.
 <!-- -->
 Note: To complete the team, we need to find and join one more person. Should be:
 
-- A linguist or with knowledge of Spanish who is also fluent in English.
+- A translation reviewer with knowledge of Spanish who is also fluent in English.
 
 ## Please list the name and email address of a project leader(s) who has approved this proposal.
 
