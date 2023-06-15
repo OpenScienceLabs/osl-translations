@@ -76,7 +76,7 @@ will provide the necessary resources and tools to manage the translation
 process, as well as technical support to ensure a smooth collaboration with
 SciPy maintainers.
 
-The estimated time for the entire project is approximately 166 hours of work,
+The estimated time for the entire project is approximately 176 hours of work,
 including translation, quality assurance, technical implementation, and
 communication with the SciPy team. By collaborating on this project, we can
 create a more inclusive and diverse community of users, and enable
@@ -114,19 +114,19 @@ education and career opportunities for Spanish-speaking individuals in STEM.
 
 ## Amount Requested:
 
-2500$
+2640$
 
 ## Brief Budget Justification:
 
 The money received will be used to pay the people involved in the project:
 
-- Planning and coordination of the workflow ($75) 
-- Protocol and project planning ($75) 
+- Planning and coordination of the workflow ($90) 
+- Protocol and project planning ($90) 
 - Adaptation of the style guide and creation of a glossary ($150) 
 - Extraction of the content (240$) 
 - Translation process ($1500)
-- Review and quality control ($230) 
-- Deployment of the translations to the websites ($230) 
+- Review and quality control ($345) 
+- Deployment of the translations to the websites ($225)
 
 
 
@@ -146,15 +146,15 @@ glossary.
 The second week will involve extracting the content to be translated and
 configuring the content on Crowdin.
 
-The third, the fourth, fifth and sixth weeks will be devoted to translation.
+The third to eighth week will be devoted to translation.
 
-The seventh week is to be dedicated to revision and quality control of the
-translations, ensuring that the style guide is followed and that Spanish grammar
-rules are correctly applied. We will also start proofing the content to be used
-on the websites.
+The seventh, eighth and ninth weeks will be dedicated to revision and quality
+control of the translations. We make sure that the style guide is followed and
+that Spanish grammar rules are correctly applied. We will also start checking
+the content to be used on the websites.
 
-The last week of the project is dedicated to placing the translation on the
-website.
+The last two weeks of the project are for the placement of the translation on
+the website.
 
 Throughout the process, the Protocol and Project Planning Officer will fulfil
 their role. They will skilfully organise and facilitate meetings between
