@@ -138,10 +138,10 @@ The money received will be used to pay the people involved in the project:
 
 <!-- Please include specific timelines showing when you will achieve the proposed work. -->
 
-The translation project will be completed within a two-month timeframe, with
-different tasks assigned to each week. The first week will focus on planning and
-coordinating the workflow, including adapting the style guide and creating a
-glossary.
+The translation project will be completed within a timeframe of two and a half
+months, with different tasks assigned for each week. The first week will focus
+on planning and coordinating the workflow, including adapting the style guide
+and creating a glossary.
 
 The second week will involve extracting the content to be translated and
 configuring the content on Crowdin.
