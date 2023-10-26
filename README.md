@@ -128,6 +128,7 @@ The money received will be used to pay the people involved in the project:
 - Review and quality control ($345) 
 - Deployment of the translations to the websites ($225)
 
+Payment Term 15$/hour
 
 
 <!-- Nota: Se estima que un traductor(a) gane 0.05$ por palabra y que una persona -->
@@ -165,6 +166,9 @@ If the project can be completed in less time than planned, the extra budget will
 be used to improve the translation of another related project
 (e.g. scikit-learn, pandas).
 
+You can view the timeline in the following spreadsheet: 
+https://docs.google.com/spreadsheets/d/1iBkS6WKec0WzQI7s-9u9vBy__FnF7QYTwTArTOP57aE/edit?usp=sharing
+
 ## Has someone been identified to carry out the work in the proposal?
 
 How many persons we needs?
@@ -193,6 +197,13 @@ reproducibility of science.
 Note: To complete the team, we need to find and join one more person. Should be:
 
 - A translation reviewer with knowledge of Spanish who is also fluent in English.
+<!-- -->
+
+## How will someone be identified to carry out the work? This question is required.
+
+We have identified almost all of the people we need for the project, with one exception. 
+We are currently in the process of contacting people within our network who meet the 
+requirements for this role.
 
 ## Please list the name and email address of a project leader(s) who has approved this proposal.
 
